@@ -19,60 +19,52 @@
 ## Технологии
 <h3 align="left">Языки и фреймворки</h3>
 <p align="left"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" alt="" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="" height="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="java" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" alt="spring" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c language" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="c++" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" height="60"/>
   <br/><br/>
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" alt="" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-plain-wordmark.svg" alt="" height="60"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="python" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" alt="numpy" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-plain-wordmark.svg" alt="pytorch" height="60"/> 
   <br/><br/>
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" alt="" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="react" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="redux" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" alt="html5" height="50"/>
 </p>
 
 <h3 align="left">Инструменты</h3>
 <p align="left"> 
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="" height="50"/>
-  <img <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" alt="" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-plain.svg" alt="" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" alt="" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt="" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="50"/>
+  <img <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" alt="bash" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-plain.svg" alt="vim" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" alt="docker" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt="nginx" height="50"/>
 </p>
 
 ## Каталог проектов
 
-### 1. Java
-- [Backend-часть онлайн-магазина обуви (Spring Boot)](https://github.com/averagefun/AikiShopBackend)
-- [Серия работ по веб-программированию (PHP, Java Servltest + JSP + Filters, JSF, JavaEE + React)](https://github.com/averagefun/se-itmo-web)
-- [Серия работ по Java (Console App, TCP/UDP, JDBC, Multithreading, GUI, Localisation)](https://github.com/averagefun/se-itmo-java)
+### 1. Fullstack
+- [Backend-часть онлайн-магазина обуви - Spring Boot](https://github.com/averagefun/AikiShopBackend)
+- [Frontend-часть онлайн-магазина обуви - React TypeScript](https://github.com/averagefun/AikiShopFrontend)
 
-### 2. C/C++
-- [Поворот BMP картинки](https://github.com/averagefun/ImageRotation)
-- [Аллокатор памяти](https://github.com/averagefun/MemoryAllocator)
-- [Чтение PE файла](https://github.com/averagefun/PEFileReader)
-- [Сепия фильтр (C vs Nasm)](https://github.com/averagefun/SepiaFilterCAssembly)
-- [Интерактивный калькулятор на базе STM32 с парсером скобок, чисел, арифметических операторов, расстановкой приоритетов операций](https://github.com/averagefun/STM32_Calc)
-- [Интерактивный таймер со звуковым сигналом на базе STM32](https://github.com/averagefun/STM32_Timer)
+### 2. Java
+- [Серия работ по веб-программированию - PHP, Java Servltest + JSP + Filters, JSF, JavaEE + React](https://github.com/averagefun/se-itmo-web)
+- [Серия работ по Java - Console App, TCP/UDP, JDBC, Multithreading, GUI, Localisation)](https://github.com/averagefun/se-itmo-java)
+- [Серия работ по тестированию на Java - SRS, Git, JUnit + сборка Ant, Мониторинг и профилирование](https://github.com/averagefun/se-itmo-mispi)
 
-### 3. Assembly
-- [Библиотека ввода-вывода](https://github.com/averagefun/IOLibAssembly)
-- [Реализация словаря](https://github.com/averagefun/DictionaryAssembly)
-- [Сепия фильтр](https://github.com/averagefun/SepiaFilterCAssembly)
+### 3. C/C++/Assembly
+- [Серия работ по C/Assembly - IOLibAssembly, DictionaryAssembly, ImageRotation, MemoryAllocator, SepiaFilter](https://github.com/averagefun/se-itmo-c)
+- [Серия работ по C/STM32 - PeFileReader, STM32_Timer, STM32_Calc](https://github.com/averagefun/se-itmo-embedded-systems)
 
-### 4. TypeScript
-- [Frontend-часть онлайн-магазина обуви (React TypeScript)](https://github.com/averagefun/AikiShopFrontend)
-
-### 5. Python
-- [TelegramStyleBot - Neural Style Transfer & CycleGAN](https://github.com/averagefun/TelegramStyleBot)
+### 4. Python
 - [Распознавание цифр и цвета с помощью камеры на OpenCV](https://github.com/averagefun/OpenCVDigits)
-- [Эмуляция поведения системы пружинок](https://github.com/averagefun/DIffEquationSprings)
-
+- [Эмуляция поведения системы пружинок (система дифференциальных уравнений)](https://github.com/averagefun/DIffEquationSprings)
+- [TelegramStyleBot - Перенос стиля с одной картинки на другую с помощью Neural Style Transfer и CycleGAN](https://github.com/averagefun/TelegramStyleBot)
+- [TelegramBassBot - Применеие различных звуковых эффектов (Bass, 8D) к входящим аудио](https://github.com/averagefun/TelegramBassBot)
