@@ -16,6 +16,11 @@
   * Веб-сервер: Nginx
   * Контейнеризация: Docker Compose
 
+* Телеграм-бот [BirthdayReminderBot](https://t.me/DontMissBirthdaysBot)
+  * Напоминалка о Днях Рождения дополнительными фишками
+  * Возможность вывести список ДР по месяцам, редактировать каждого добавленного человека, изменять частоту напоминалок
+  * Возможность работы в группах, возможность делиться своими ДР с другими пользователями
+
 ## Технологии
 <h3 align="left">Языки и фреймворки</h3>
 <p align="left"> 
@@ -68,3 +73,4 @@
 - [Эмуляция поведения системы пружинок (система дифференциальных уравнений)](https://github.com/averagefun/DIffEquationSprings)
 - [TelegramStyleBot - Перенос стиля с одной картинки на другую с помощью Neural Style Transfer и CycleGAN](https://github.com/averagefun/TelegramStyleBot)
 - [TelegramBassBot - Применеие различных звуковых эффектов (Bass, 8D) к входящим аудио](https://github.com/averagefun/TelegramBassBot)
+- [BirthdayReminderBot - Бот-напоминалка о Днях Рождения с дополнительными фишками](https://t.me/DontMissBirthdaysBot)
