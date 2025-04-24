@@ -6,21 +6,6 @@
 - Студент [ITMO University](https://itmo.ru/) по направлению «Software Engineering»
 - Лабораторные работы в [репозитории](https://github.com/averagefun/ITMO#readme)
 
-## Сейчас работаю над проектами
-
-* Онлайн-магазин обуви [AikiShoes](https://aikishoes.ru/)
-  * [Backend](https://github.com/averagefun/AikiShopBackend) (Spring Boot)
-  * [Frontend](https://github.com/averagefun/AikiShopFrontend) (React TypeScript + Redux Toolkit)
-  * Взаимодействие: Rest API
-  * База-данных: PostgreSQL
-  * Веб-сервер: Nginx
-  * Контейнеризация: Docker Compose
-
-* Телеграм-бот [BirthdayReminderBot](https://t.me/DontMissBirthdaysBot)
-  * Напоминалка о Днях Рождения с дополнительными фишками
-  * Возможность вывести список ДР по месяцам, редактировать каждого добавленного человека, изменять частоту напоминалок
-  * Возможность работы в группах, возможность делиться своими ДР с другими пользователями
-
 ## Технологии
 <h3 align="left">Языки и фреймворки</h3>
 <p align="left"> 
